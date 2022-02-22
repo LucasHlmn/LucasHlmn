@@ -1,16 +1,13 @@
 ## Hi, I'm Lucas 👋
 
-I'm currently working as a FP&A / Business Analyst but I have a strong interest to Data Science/Analytics, Machine Learning and BlockChain applications. Most of projects I completed so far were done using **Python, C and UNIX Shell.**
+I'm currently working as a FP&A / Business Analyst but I have a strong interest to Data Science/Analytics, Machine Learning and BlockChain applications. 
 
-I'm also a student at 42 School(Tokyo campus) on my freetime. 42 is a future-proof computer science training to educate the next generation of software engineers. The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market. Its pedagy revolves around 4 main pillars: 
-
-1. No Courses, no teachers and no classes
-2. Project-based Pedagogy
-3. Peer-to-Peer Learning
-4. Gamification
+I'm also a student at 42 School(Tokyo campus) on my freetime.
 
 For more info, you can visit the following website --> https://42tokyo.jp/ (Tokyo Campus)   |    https://42.fr/en/ (Main campus website)
 
+------------------------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHlmn&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHlmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -------------------------
 
 <!--
