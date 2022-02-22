@@ -15,32 +15,32 @@ For more info, you can visit the following website --> https://42tokyo.jp/ (Toky
 
 <!--
 **LucasHlmn/LucasHlmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Projects I have done:
+### ✅   Projects I have done:
 
-✅  IBM Data Science Professional Certificate ([Redirect to Repo](https://github.com/LucasHlmn/IBM-Data-Science-Course))
+* IBM Data Science Professional Certificate ([Redirect to Repo](https://github.com/LucasHlmn/IBM-Data-Science-Course))
 
-✅  42 Piscine (mandatory bootcamp to be admitted to 42 School) ([Redirect to Repo](https://github.com/LucasHlmn/42-Piscine))
+* 42 Piscine (mandatory bootcamp to be admitted to 42 School) ([Redirect to Repo](https://github.com/LucasHlmn/42-Piscine))
 
-✅  42 School completed projects ([Redirect to Repo](https://github.com/LucasHlmn/42-cursus))
+* 42 School completed projects ([Redirect to Repo](https://github.com/LucasHlmn/42-cursus))
 
-✅  Problems completed on CodeWars ([Redirect to Repo](https://github.com/LucasHlmn/CodeWars))
-
--------------------------
-
-### Projects I'm currently working on:
-
-:man_technologist: 42 School cursus projects
-
-:man_technologist: Python Games using PyGame
+ * Problems completed on CodeWars ([Redirect to Repo](https://github.com/LucasHlmn/CodeWars))
 
 -------------------------
 
-### Projects I plan to do:
+### :man_technologist:  Projects I'm currently working on:
 
-🗓️ Tableau Certification
+* 42 School cursus projects
 
-🗓️ Challenges on Kaggle
+* Python Games using PyGame
 
-🗓️ Crypto/Stocks Trading bot using Python and Ichimoku strategies
+-------------------------
 
-🗓️ Crypto Portfolio tracking Dashboard using Python
+### 🗓️  Projects I plan to do:
+
+* Tableau Certification
+
+* Challenges on Kaggle
+
+* Crypto/Stocks Trading bot using Python and Ichimoku strategies
+
+* Crypto Portfolio tracking Dashboard using Python
