@@ -7,7 +7,7 @@ I'm also a student at 42 School(Tokyo campus) on my freetime.
 For more info, you can visit the following website --> https://42tokyo.jp/ (Tokyo Campus)   |    https://42.fr/en/ (Main campus website)
 
 ------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHlmn&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHlmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHlmn&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHlmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -------------------------
 
 <!--
