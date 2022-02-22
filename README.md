@@ -11,6 +11,7 @@ I'm also a student at 42 School(Tokyo campus) on my freetime. 42 is a future-pro
 
 For more info, you can visit the following website --> https://42tokyo.jp/ (Tokyo Campus)   |    https://42.fr/en/ (Main campus website)
 
+-------------------------
 
 <!--
 **LucasHlmn/LucasHlmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -24,6 +25,7 @@ For more info, you can visit the following website --> https://42tokyo.jp/ (Toky
 
 ✅  Problems completed on CodeWars ([Redirect to Repo](https://github.com/LucasHlmn/CodeWars))
 
+-------------------------
 
 ### Projects I'm currently working on:
 
@@ -31,7 +33,7 @@ For more info, you can visit the following website --> https://42tokyo.jp/ (Toky
 
 :man_technologist: Python Games using PyGame
 
-
+-------------------------
 
 ### Projects I plan to do:
 
