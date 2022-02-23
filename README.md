@@ -10,9 +10,16 @@ For more info, you can visit the following website --> https://42tokyo.jp/ (Toky
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LucasHlmn&hide=issues,contribs&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHlmn&layout=compact"/>
-<br\>
-<br\>
-<br\>
+<br \>
+<br \>
+<br \>
+<br \>
+<br \>
+<br \>
+<br \>
+<br \>
+<br \>
+
 -------------------------
 
 ### ✅   Projects I have done:
