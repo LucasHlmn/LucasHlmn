@@ -10,11 +10,11 @@ For more info, you can visit the following website --> https://42tokyo.jp/ (Toky
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LucasHlmn&hide=issues,contribs&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHlmn&layout=compact"/>
-
+<br\>
+<br\>
+<br\>
 -------------------------
 
-<!--
-**LucasHlmn/LucasHlmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### ✅   Projects I have done:
 
 * IBM Data Science Professional Certificate ([Redirect to Repo](https://github.com/LucasHlmn/IBM-Data-Science-Course))
