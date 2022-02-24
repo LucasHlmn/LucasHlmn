@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas 👋
 
-I'm currently working as a FP&A / Business Analyst but I have a strong interest to Data Science/Analytics, Machine Learning and BlockChain applications. 
+I'm currently working as a FP&A / Business Analyst but I have a strong interest in Data Science/Analytics, Machine Learning and BlockChain applications. 
 
 I'm also a student at 42 School(Tokyo campus) on my freetime.
 
